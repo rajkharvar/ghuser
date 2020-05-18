@@ -1,0 +1,21 @@
+{
+  "name": "ghuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "figlet": "^1.4.0",
+    "moment": "^2.25.3",
+    "ora": "^4.0.4",
+    "prompt": "^1.0.0",
+    "prompts": "^2.3.2"
+  }
+}
