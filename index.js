@@ -31,8 +31,8 @@ async function getUser () {
             location,
             created_at
           } = data
-          console.log(`        Name: ${colors.america(name)}`.bold)
-          console.log(`   Following: ${colors.brightBlue(following)}`)
+          console.log(`        Name: ${colors.rainbow(name)}`.bold)
+          console.log(`   Following: ${following}`)
           console.log(`   Followers: ${followers}`)
           console.log(` Public repo: ${public_repos}`)
           console.log(`    Location: ${location || '🌍'}`)
